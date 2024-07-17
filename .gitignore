@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 google-cloud-service-key.json
+uploads/
+handwritting-recognisation-firebase-adminsdk-dp7g7-36ff22e7df.json

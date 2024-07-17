@@ -12,6 +12,9 @@ streamlit = "^1.36.0"
 streamlit-chat = "^0.1.1"
 google-cloud-documentai = "^2.29.2"
 pymupdf = "^1.24.7"
+firebase-admin = "^6.5.0"
+pyrebase4 = "^4.8.0"
+google-cloud-firestore = "^2.16.1"
 
 
 [build-system]
